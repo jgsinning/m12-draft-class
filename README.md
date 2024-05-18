@@ -1,4 +1,4 @@
-# m12-draft-class
+# Madden 12 Draft Class Generator
 
 A collection of scripts with the purpose of automatically generating a draft class for Madden 12 Franchise Mode.
 
